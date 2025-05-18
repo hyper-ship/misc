@@ -1,6 +1,6 @@
 local userdata = {
   ["allowCustomStuff"] = function()
-    return tostring("98218382")
+    return "98218382"
   end,
   ["GradColors"] = function()
     --colorsettings
